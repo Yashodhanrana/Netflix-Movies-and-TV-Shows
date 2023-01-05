@@ -1,6 +1,7 @@
 # Netflix-Movies-and-TV-Shows
 
-Firstly I just upload the file and then see what the dataset exactly tells us about after carefully seeing the data set I clean that data reduce the null value, clean the data \n
+Firstly I just upload the file and then see what the dataset exactly tells us about after carefully seeing the data set I clean that data reduce the null value, clean the data.
+
 After that filter the database with some criteria (filtering for movies and TV shows)
 See Top Netflix shows
 Top ten Countries watching Netflix
